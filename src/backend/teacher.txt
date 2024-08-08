@@ -1,0 +1,17 @@
+Heshan Du, heshan.du@nottingham.edu.cn, PMB 448, Thursday 3-4 pm, Friday 10-11 am, logic, artificial intelligence, geospatial information science, ontologies and semantic web
+Amin Farjudian, Amin.Farjudian@nottingham.edu.cn, PMB-442, Wednesday 3-5pm, Classical and Computable (Mathematical) Analysis,  Robustness Analysis using methods from Domain Theory and Category and Ordinary and Partial Differential Equations
+Huan Jin, huan.jin@nottingham.edu.cn, PMB-435, Monday 2-3 pm, Artificial Intelligence, Heuristics, Algorithms, Transportation Logistics, Vehicle Routing Problem, Job Scheduling
+Ruibin Bai, ruibin.bai@nottingham.edu.cn, PMB425, Thursday 11-12 am, Computational Intelligence, Reinforcement Learning, operations Research, Evolutionary Algorithm, Hyper-Heuristics, Modelling, Scheduling and Optimization with a special focus on transportation systems
+Anthony Bellotti, Anthony-Graham.Bellotti@nottingham.edu.cn, PMB-419, Monday 2-3 pm, Machine Learning, Statistical Inference, Credit Risk Modelling and Conformal Predictors
+Pushpendu Kar, pushpendu.kar@nottingham.edu.cn, PMB-448, 4:30 - 6:30, Wireless Sensor Networks, the Internet of Things and Content Centric Networking
+Lee, Boon Giin, boon-giin.lee@nottingham.edu.cn, PMB-447, Monday 10 am - 12 pm & Thursday 2-4 pm, Human-Computer Interaction, Recognition System, Healthcare System, Artificial Intelligence, Deep Learning, Machine Learning and Computer Vision
+Jiawei Li (Michael), jiawei.li@nottingham.edu.cn, PMB-426, Tuesday 3-5 pm, Relationship Model of games, Decision Making in Extreme Situations and Search Based Decision Support
+Prapa Rattadilok, prapa.rattadilok@nottingham.edu.cn, PMB-438, Tuesday 11am - 12 pm & Friday 11am - 12pm, Anomaly Detection, Fault Analysis, Situation Awareness, Biomedical Intelligent Systems, Smart Home, Sensor Network, Heuristics, Neural Network and Programming of Distributed Systems and Visualization
+Zheng Lu, zheng.lu@nottingham.edu.cn, PMB-426, null, Computer Vision, Image Processing and Machine Learning
+Matthew Pike, matthew.pike@nottingham.edu.cn, PMB-435, Thursday 3-4 am, HCI
+Jianfeng Ren, Jianfeng.Ren@nottingham.edu.cn, PMB-323, Thursday 3-4pm & Friday 10-11am, face recognition, image/video processing, statistical pattern recognition, deep learning, human-computer interaction and radar target recognition
+Chris Roadknight, Chris.Roadknight@nottingham.edu.cn, PMB-426, Monday 9-11am, Applied Machine Learning, Modelling, Simulation, Networks, Healthcare
+Dave Towey, Dave.Towey@nottingham.edu.cn, PMB-419, Tuesday and Thursday 2-3pm, oftware testing, especially the areas of metamorphic testing and adaptive random testing. I am currently particularly interested in testing so-called untestable systems
+Ying Weng, Ying.Weng@nottingham.edu.cn, PMB-341, null, Big Data on Image/Video Processing; Computer Vision; Machine Learning; Internet of Things; Multimedia Security & Forensics; Security & QoS in Wireless Networks
+Heng Yu, heng.yu@nottingham.edu.cn, PMB-426, Thursday 1-4 pm, implementing AI algorithms/applications on dedicated hardware platforms, empowering existing computing systems with intelligence
+Qian Zhang, qian.zhang@nottingham.edu.cn, PMB-407, Thursday 1-3 pm, large-scale duplicate image detection, content-based image retrieval, image spatial verification, pattern recognition and large-scale image clustering, knowledge discovery in large image collections

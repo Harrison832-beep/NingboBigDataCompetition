@@ -1,0 +1,8 @@
+comp2048, Algorithms Correctness and Efficiency, Lab, PMB-432, 2, 16:00-18:00, Heshan Du
+comp2051, Artificial Intelligence Methods, Lab, PMB-432, 2, 9:00-11:00, Ruibin Bai
+comp2048, Algorithms Correctness and Efficiency, Lecture, DB-C05, 1, 9:00-11:00, Heshan Du
+comp2049, Languages and Computation, Lab, DB-C05, 1, 14:00-16:00, Amin Farjudian
+comp2043, Software Engineering Group Project, Lecture, DB-C05, 3, 11:00-13:00, Dave Towey
+comp2051, Artificial Intelligence Methods, Lecture, DB-A05, 4, 9:00-11:00, Ruibin Bai
+comp2049, Languages and Computation, Lecture, DB-C05, 5, 14:00-16:00, Amin Farjudian
+comp2048, Algorithms Correctness and Efficiency, Lab, DB-C05, 5, 16:00-17:00, Heshan Du

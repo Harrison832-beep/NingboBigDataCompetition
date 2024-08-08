@@ -1,0 +1,6 @@
+Django
+baidu-aip
+chatterbot
+ffmpeg
+weixin
+termcolor

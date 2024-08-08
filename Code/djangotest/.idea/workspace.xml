@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10602441-906e-4fa7-9cb9-63ee66ed8d10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Y3/ACE/W6/JavaCode/src/lab/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/Compound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/Employable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/EmployableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/EmployableImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/ZooApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/ZooCrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/#W2/Zoo/src/main/java/ZooSystem/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/JavaFXTest/JavaFXTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/ae2dms-cw-20126969/SokobanFX/src/main/resources/view/PlayScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y3/DMS/ae2dms-cw-20126969/SokobanFX/src/main/resources/view/StartScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大二上/1036 Computer Fundamentals/nand2tetris/projects/09/BitmapEditor/BitmapEditor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大二下/SE/CW3/COMP1035-Lab07-CW03-Code/COMP1035-Lab07-CW03-Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大二下/SE/~W5/Lec11-UnitTestsAndTDD-SampleCode/sample_code/tdd_junit/tdd_junit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/final.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/webpack.final.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/final.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Background/BottomLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Background/BottomRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Background/TopLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Background/TopRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Authentication/Authentication.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Authentication/black_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Authentication/black_white_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Authentication/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Authentication/quit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Authentication/wrong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/BlinkingLoading/BlinkingLoading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/BlinkingLoading/images/heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Emoji.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/Fish.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/TO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/like_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/quotation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fish/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/Fishcan.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/MenuList/MenuList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/MenuList/images/entercircle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/MenuList/images/follow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/MenuList/images/report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/MenuList/images/share_shortURL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/QRCode/QRCode.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/QRCode/images/index_bottom_qrcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/images/in1day.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/images/in3days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/images/in7days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Fishcan/images/longago.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/Footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/images/article_after.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/images/article_before_jianbian.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/images/heart_after.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/images/heart_before_jianbian.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/images/search_after.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Footer/images/search_before_jianbian.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/Mask.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/cardhelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/edithelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/locationhelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/menuhelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/morehelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/sayhelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/searchhelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/sharehelp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/usage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Mask/images/添加提示.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/PopWarn/PopWarn.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/PopWarn/image/attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/PopWarn/image/i_know.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/PopWarn/image/warning_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Components/Tongji/Tongji.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/BottomNotice/BottomNotice.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/BottomNotice/images/beiantubiao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/BottomNotice/images/short_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Header/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Header/images/double_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Header/images/index_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Header/images/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/ResultPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/SearchHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/SearchPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/images/cancel_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/images/cut_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/images/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/images/line_search_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/Search/images/possearch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/images/beiantubiao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/images/eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/images/quick_saylove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Home/images/short_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/Love.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/SayloveTag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/choosetag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/i_know.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/no_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_content.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_emo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_hint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/saylove_to.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/search_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Love/images/warning_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Components/Terms/terms.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Components/UserTitle/UserTitle.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Components/UserTitle/images/female.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Components/UserTitle/images/male.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Components/UserTitle/images/no-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Components/UserTitle/images/talking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/Mine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/ChangeSelected.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/MyFocusCoterie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/images/edittag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/images/exit_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/images/gotosaylove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/images/noresult.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/images/red_dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusCoterie/images/search_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/EmptyList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/MyFocusPost.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/images/bad_face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/images/in1day.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/images/in3days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/images/in7days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/images/longago.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyFocusPost/images/quick_saylove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/MyLove.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/add_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/bad_face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/bigbTO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/myword_bj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/ppp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/quick_saylove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/saylove_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/send_msg_faSong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/MyLove/images/ver_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/authen_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/authen_stu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/feedback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/keys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/no-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/red_dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/saylove_submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/superfocus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mine/images/words.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Robots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Router/DevLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Router/GlobalGuards.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Router/QQLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Router/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Router/WeixinLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Router/XiaoChengXuLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/AlterSchool/AlterSchool.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/AlterSchool/images/dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/AlterSchool/images/possearch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/AlterSchool/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/ApplyCoterie/ApplyCoterie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/ApplyCoterie/images/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/ApplyCoterie/images/submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/ApplyCoterie/images/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Coterie/Coterie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Coterie/DiscoverCoterie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Coterie/images/coteriemore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Coterie/images/gotosaylove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Coterie/images/noresult.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Coterie/images/search_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/Detail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/add_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/bigbTO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/black_white_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/focus_pop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/i_know.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/jubao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/like_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/little_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/love_heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/report_pop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/send_msg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/turn_to_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/ver_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Detail/images/warning_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/Report.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/images/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/images/empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/images/full.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/images/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/images/report_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/SecondaryPages/Report/images/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/SIMSUN.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/ShareImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/bigbTO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/blank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/divide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/downframe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/liked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/quotation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ShareImage/images/upframenew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/unit/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/unit/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/unit/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/Compound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/Employable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/ZooApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/ZooCrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大三上/DMS/#W2/Zoo/src/ZooSystem/ZooKeeper.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="1jx5UvngnaXuCgY3L9WZEl0ETMh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysite" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10602441-906e-4fa7-9cb9-63ee66ed8d10" name="Default Changelist" comment="" />
+      <created>1604732921373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604732921373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="98" key="FileChooserDialogImpl" timestamp="1605183220326">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="740" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605183220326" />
+  </component>
+</project>
